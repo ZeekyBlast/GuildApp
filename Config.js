@@ -1,0 +1,8 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.dbname = exports.owners = exports.prefix = exports.token = void 0;
+exports.token = "NzgwNTMwODMyMDExNjg5OTg0.X7wb-w.qqNegFAjRQAjsB9VeAGlzhKLSmU";
+exports.prefix = ";";
+exports.owners = ['460458132313735178', '673480965925896202'];
+exports.dbname = "RoMcDB";
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiQ29uZmlnLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vc3JjL0NvbmZpZy50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7QUFBVyxRQUFBLEtBQUssR0FBVyw2REFBNkQsQ0FBQztBQUM5RSxRQUFBLE1BQU0sR0FBVyxHQUFHLENBQUM7QUFDckIsUUFBQSxNQUFNLEdBQWEsQ0FBQyxvQkFBb0IsRUFBRSxvQkFBb0IsQ0FBQyxDQUFDO0FBQ2hFLFFBQUEsTUFBTSxHQUFXLFFBQVEsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBsZXQgdG9rZW46IHN0cmluZyA9IFwiTnpnd05UTXdPRE15TURFeE5qZzVPVGcwLlg3d2Itdy5xcU5lZ0ZBalJRQWpzQjlWZUFHbHpoS0xTbVVcIjtcclxuZXhwb3J0IGxldCBwcmVmaXg6IHN0cmluZyA9IFwiO1wiO1xyXG5leHBvcnQgbGV0IG93bmVyczogc3RyaW5nW10gPSBbJzQ2MDQ1ODEzMjMxMzczNTE3OCcsICc2NzM0ODA5NjU5MjU4OTYyMDInXTtcclxuZXhwb3J0IGxldCBkYm5hbWU6IHN0cmluZyA9IFwiUm9NY0RCXCI7Il19
